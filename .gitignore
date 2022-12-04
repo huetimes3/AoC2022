@@ -1,0 +1,4 @@
+.vscode/
+bin/
+obj/
+AdventOfCode2022.csproj
