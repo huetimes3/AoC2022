@@ -21,7 +21,7 @@ public class day7
                     {
                         dir.Push(0);
                     }
-                }
+               }            
             }
             else if (l[0] != "dir") // it's a file with size
             {
